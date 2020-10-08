@@ -6,7 +6,7 @@ Run `pipenv install --dev`
 ### Tests
 #### Running    
     pytest
-    pSc9w55HdupmebCUGFSqyn9BrAWhBv
+    
 #### With coverage
 
     pytest --cov=.
